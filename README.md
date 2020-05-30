@@ -40,4 +40,4 @@ npx react-native run-android
 ## Troubleshuting
 If you have any problems with starting make sure you configure everything alright. Read this slowly and try again:
 
-[PREPARE ENVIRONMEN](https://reactnative.dev/docs/environment-setup)
+[PREPARE ENVIRONMENT](https://reactnative.dev/docs/environment-setup)
