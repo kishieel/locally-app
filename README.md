@@ -43,4 +43,4 @@ If you have any problems with starting make sure you configure everything alrigh
 [PREPARE ENVIRONMENT](https://reactnative.dev/docs/environment-setup)
 
 ## Contributors
-[Julia](https://github.com/evilghostgirl) [Kamil](https://github.com/Firemanpl) [Tomek](https://github.com/TomaszKisiel)
+[Julia](https://github.com/evilghostgirl) [Kamil](https://github.com/Firemanpl) [Krzysiek](https://github.com/Krizzuu) [Tomek](https://github.com/TomaszKisiel)
