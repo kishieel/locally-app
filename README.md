@@ -44,4 +44,3 @@ If you have any problems with starting make sure you configure everything alrigh
 
 ## Contributors
 [Julia](https://github.com/evilghostgirl) [Kamil](https://github.com/Firemanpl) [Tomek](https://github.com/TomaszKisiel)
-
